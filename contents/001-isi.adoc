@@ -20,7 +20,7 @@ Belum ada pengukuran tingkat layanan untuk komponen layanan teknis / pendukung s
 
 === Proses Penyediaan Layanan
 
-Proses penyediaan layanan ini dilakukan dengan dokumen Perjanjian Kerjasama antara Badan Pendapatan Daerah Kabupaten Brebes dengan unit kerja lain yang membutuhkan, kemudian Bagian Teknologi Informasi menindaklanjuti dengan memberikan dokumen teknis penggunaan layanan OAuth Pendapatan.
+Proses penyediaan layanan ini dilakukan dengan dokumen Perjanjian Kerjasama antara Badan Pendapatan Daerah Kabupaten Brebes dengan unit kerja lain yang membutuhkan, kemudian Bagian Teknologi Informasi menindaklanjuti dengan memberikan dokumen teknis penggunaan layanan SIMDA Service.
 
 === Periode Kajian Terhadap Layanan dan Laporannya
 
